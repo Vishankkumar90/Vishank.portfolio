@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishank Kumar</h1>
 <h3 align="center">CSE Student | C++ & Python Developer | DSA & AI Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -73,13 +70,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
