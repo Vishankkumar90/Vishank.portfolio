@@ -13,7 +13,7 @@
 - 💻 Strong in **C++ & Python**
 - 🧠 Passionate about **Data Structures & Algorithms**
 - 🤖 Exploring **AI & Machine Learning**
-- 🎯 Goal: Software Engineer at Microsoft
+- 🎯 Goal: To specialize in Artificial Intelligence and Machine Learning while building a strong foundation in problem-solving and system design
 - 🔥 Building projects consistently
 
 ---
@@ -68,20 +68,8 @@
 |---------|------------|
 | 🔥 DSA Master Repo | Complete Data Structures Implementation |
 | 🤖 Neural Network | Built using NumPy with full math explanation |
-| 📡 Arduino Radar | Ultrasonic Sensor + Processing Visualization |
+| 📡 Arduino ultrasonic Radar | Ultrasonic Sensor + Processing Visualization |
 | 🌐 College Website | React-based Frontend Project |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -96,7 +84,7 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/vishank-kumar-46b91a303/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -112,5 +100,4 @@
 
 ---
 
-⭐ “Consistency beats talent when talent doesn’t work hard.”
 
