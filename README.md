@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student from India
+- 🎓 Computer Science Student at KIET Group of Institutions, Ghaziabad
 - 💻 Strong in **C++ & Python**
 - 🧠 Passionate about **Data Structures & Algorithms**
 - 🤖 Exploring **AI & Machine Learning**
